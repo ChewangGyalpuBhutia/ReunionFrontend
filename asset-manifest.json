@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ReunionFrontend/static/css/main.9fc23b8a.css",
-    "main.js": "/ReunionFrontend/static/js/main.4652e5fe.js",
+    "main.css": "/ReunionFrontend/static/css/main.e17fab06.css",
+    "main.js": "/ReunionFrontend/static/js/main.2345a285.js",
     "static/js/646.27b073d0.chunk.js": "/ReunionFrontend/static/js/646.27b073d0.chunk.js",
     "index.html": "/ReunionFrontend/index.html",
-    "main.9fc23b8a.css.map": "/ReunionFrontend/static/css/main.9fc23b8a.css.map",
-    "main.4652e5fe.js.map": "/ReunionFrontend/static/js/main.4652e5fe.js.map",
+    "main.e17fab06.css.map": "/ReunionFrontend/static/css/main.e17fab06.css.map",
+    "main.2345a285.js.map": "/ReunionFrontend/static/js/main.2345a285.js.map",
     "646.27b073d0.chunk.js.map": "/ReunionFrontend/static/js/646.27b073d0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9fc23b8a.css",
-    "static/js/main.4652e5fe.js"
+    "static/css/main.e17fab06.css",
+    "static/js/main.2345a285.js"
   ]
 }
